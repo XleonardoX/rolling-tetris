@@ -7,7 +7,6 @@
 	}
 	
 	body {
-		  background-image: url('imagens/imgBody.jpg');
   		  background-repeat: no-repeat;
   		  background-attachment: fixed;
   		  background-size: 100%;
@@ -43,19 +42,19 @@
 	}
 	
 	.topnav button{
-    transition-duration: 0.5s;
-    border-radius: 0px;
-    border: none;
-    background: none;
-    background-color: #191970;
-		color: #191970;
-    text-align: center;
-    cursor: pointer;
-    padding: 5px;
-    margin: 5px;
-    width: 50px;
-    height: 40px;
-}
+	    transition-duration: 0.5s;
+	    border-radius: 0px;
+	    border: none;
+	    background: none;
+	    background-color: #191970;
+	    color: #191970;
+	    text-align: center;
+	    cursor: pointer;
+	    padding: 5px;
+	    margin: 5px;
+	    width: 50px;
+	    height: 40px;
+	}
 	.topnav a {
 	  float: left;
 	  color: #FFFFFF;
@@ -73,11 +72,11 @@
 	  color: white;
 	}
 	header {
-		  background-color: #FFFFFF;
-			background-repeat: repeat-x;
-			background-size: auto;
-			width: 100%;
-  }
+	   background-color: #FFFFFF;
+	   background-repeat: repeat-x;
+	   background-size: auto;
+	   width: 100%;
+         }
 	section {
 		  padding-top: 20px;
   		  padding-right: 20px;
@@ -155,10 +154,10 @@
     	margin-right: auto;
 	}
 	IMG.displayed {
-    display: block;
+          display: block;
 	  width: 400px;
 	  height: 490px;
-    margin-left: auto;
+          margin-left: auto;
 	  margin-right: auto 
 	  
 	}	  
